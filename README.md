@@ -48,3 +48,11 @@ To make sure it is installed correctly, open IDLE and execute :
 - `import matplotlib`
 
 File to run - QuestionDiagnosisTkinter.py
+
+# OUTPUT -
+
+1) Login - ![img_3.png](img_3.png)
+2) Username & Password - ![img_5.png](img_5.png)
+3) Enter your problem - ![img_6.png](img_6.png)
+4) Displayed Symptom(Yes/No) - ![img_7.png](img_7.png)
+5) Final - ![img_8.png](img_8.png)
