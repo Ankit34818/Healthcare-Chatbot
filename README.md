@@ -1,4 +1,4 @@
-# Healthcare-Chatbot
+![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/87251b66-3411-4413-8947-63c0def49c2e)# Healthcare-Chatbot
 Project for the 7th Semester Subject -> AI in Healthcare
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
@@ -52,8 +52,12 @@ File to run - QuestionDiagnosisTkinter.py
 # OUTPUT -
 
 1) Login -![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/1548ff3f-8256-4737-97bb-dc44a0c46704)
+
 2) Username & Password - ![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/c0f51a66-73f6-48cd-bbf5-aea9bdafa73a)
+
 3) Enter your problem - ![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/7523dadc-3334-4222-a22b-0b599af0eefe)
+
 4) Displayed Symptom(Yes/No) - ![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/9b9a8612-3276-46bd-b28e-f9c820cc32f8)
+
 5) Final - ![image](https://github.com/Ankit34818/Healthcare-Chatbot/assets/109851006/af040ceb-5ef4-432f-895a-0c0e294dc7bc)
 
